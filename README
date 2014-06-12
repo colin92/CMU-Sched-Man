@@ -4,6 +4,10 @@ to a weekly schedule, where it can be removed. All programmed from scratch in py
 
 Contents of this repository: 
 two versions of the program as python files, 
+Schedule.py: an early and unfinished version
+Schedulev2.py: the main code for what ultimately became the final version (I have misplaced the
+original file that I used as my final version, this is the closest thing I could find)
+
 and one that has been packaged as a Mac OS executable program which
 should function regardless of one's python installation.
 
