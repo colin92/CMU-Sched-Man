@@ -1,0 +1,12 @@
+Introductory programming class term project. Takes CMU's schedule of classes, 
+parses the information. Displays the class the user searches for, and adds it 
+to a weekly schedule, where it can be removed. All programmed from scratch in python.
+
+Contents of this repository: 
+two versions of the program as python files, 
+and one that has been packaged as a Mac OS executable program which
+should function regardless of one's python installation.
+
+There are no plans to add or update to this in the future. It was a project that could have
+been implemented better given what I know now, but regardless there are better applications online 
+that serve the same purpose.
